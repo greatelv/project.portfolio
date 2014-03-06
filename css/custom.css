@@ -1,0 +1,30 @@
+#profile{}
+
+	#profile header{}
+
+	#profile > p{
+	    line-height: 1.5em;
+	    margin-bottom: 1.5em;
+	}
+
+	#profile > ul{}
+
+		#profile > ul > li{}
+
+			#profile > ul > li > i{}
+
+			#profile > ul > li > i:before{
+			    width: 20px;
+			}
+
+
+	#social {
+    	text-align: center;
+    	padding-top: 20px;
+	}
+
+		#social a:before{
+	    	color: #fff;
+		}
+
+
