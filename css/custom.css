@@ -28,3 +28,22 @@
 		}
 
 
+#work{}
+
+	#work header{}
+
+	#work .container{}
+
+		#work .row{}
+
+			#work .row section{
+			    padding: 2em;
+			}
+
+			#work .row section h3{
+			    margin-bottom: 0;
+			}
+
+			#work .row section p{
+			    margin-bottom: 0;
+			}
