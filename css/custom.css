@@ -28,22 +28,34 @@
 		}
 
 
-#work{}
+#experiance{}
 
-	#work header{}
+	#experiance header{}
 
-	#work .container{}
+	#experiance .container{}
 
-		#work .row{}
+		#experiance .row{}
 
-			#work .row section{
+			#experiance .row section{
 			    padding: 2em;
 			}
 
-			#work .row section h3{
+			#experiance .row section h3{
 			    margin-bottom: 0;
 			}
 
-			#work .row section p{
+			#experiance .row section p{
 			    margin-bottom: 0;
 			}
+
+
+#skill{}
+
+	#skill h3{
+	    color: #3e3e3e;
+	    text-shadow: none;
+	}
+
+	#skill p{
+	    text-shadow: none;
+	}
