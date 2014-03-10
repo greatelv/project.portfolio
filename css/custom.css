@@ -59,3 +59,38 @@
 	#skill p{
 	    text-shadow: none;
 	}
+
+#project{}
+
+	#project .project-name{
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+	#project .term{}
+
+	#project .role{
+	}
+
+
+	#project .desc{
+    	padding: 1em 1em 1em 2em;
+	}
+
+		#project .tech{
+		    text-align: left;
+		    margin-bottom: 0;
+		}
+
+		#project .tech li{}
+
+			#project .tech li span{
+			    font-weight: 900;
+			    width: 28%;
+			    display: inline-block;
+			}
+
+
+	#project hr{
+	    border-top: solid 1px rgba(0,0,0,0.2);
+	}
